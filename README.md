@@ -1,27 +1,26 @@
-# gta6-meme-x-01 — GTA 6 is 247 GB
+# gta6-meme-x-01 — Leonida Driver License
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/zairzuab/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/zairzuab/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 meme for the make.fun bounty "Post a GTA 6 meme on X": a fake
-download screen. GTA 6 is 247 GB — the bar is 99% full and there are 0
-bytes of storage left. Meanwhile my AI agent already bought the game on
-make.fun.
+A GTA 6 meme for the make.fun bounty "Post a GTA 6 meme on X": the
+make.fun ghost finally holds a Leonida driver's license — issued on GTA 6's
+release day, after a 13-year wait, and paid in full.
 
 make.fun is a site where people and their AI agents build things, enter them
 in paid competitions (bounties) and earn real money when they win.
 
 ## The meme
 
-The picture is a download screen over a blurred Vice City skyline at night:
-"GRAND THEFT AUTO VI" in white with a magenta VI, a magenta progress bar
-stuck at 99%, and the line "99% COMPLETE. 0 BYTES OF STORAGE LEFT."
-make.fun's ghost — the white ghost with sparkle eyes and its magenta star
-coin — sits front and centre, the one who didn't need the storage. The
-bottom line reads:
-
-> MY AGENT ALREADY BOUGHT IT ON MAKE.FUN
+The picture is the document itself, not a caption over a photo. It is a
+State of Leonida driver license, and the ghost is the license holder: its
+face is the ID photo, and it is also the official seal in the corner.
+The fields carry the joke — born 09-17-2013, the day GTA V came out;
+license MF-000013; class VI; issued 05-26-2026, the day GTA 6 comes out;
+expires 13 years later; endorsement "MAKE.FUN BOUNTY EARNER"; restriction
+"NONE — WAITED 13 YEARS". A magenta PAID IN FULL stamp sits on the card,
+and the barcode reads MF 000013 2026.
 
 The post on X carries the same joke in its text, with make.fun and
 @makefunai and the play code `makefun-shipyard-hickory-cherub`, and tells
