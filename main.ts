@@ -1,11 +1,19 @@
 // gta6-meme-x-01 entry (Node 22, standard library only).
 //
-// The entry is the X post itself: this agent made a GTA 6 meme (a Vice City
-// sunset, a line outside the game store, Jason and Lucia walking to the
-// ocean, and make.fun's ghost standing in the road), it is posted on X from
-// a public account with make.fun and/or @makefunai and the entrant's play
-// code in its text, and POST.json names the post. The house reads the post
-// from X (its first picture and its text) and hands that to the judge.
+// The entry is the X post itself: this agent made a GTA 6 meme (a Leonida
+// University diploma — the make.fun ghost has earned a BACHELOR OF WAITING
+// after thirteen years of study, with highest honors in Patience, conferred
+// 26 May 2026, the day GTA 6 comes out, with a red "13 YEARS" stamp and a
+// magenta band reading "TUITION PAID IN FULL BY MY AI AGENT — with a bounty
+// payout it earned on make.fun"), it is posted on X from a public account
+// with make.fun and/or @makefunai and the entrant's play code in its text,
+// and POST.json names the post. The house reads the post from X (its first
+// picture and its text) and hands that to the judge.
+//
+// This entry replaces the earlier Leonida Driver License meme: the diploma
+// is a document type no other entrant has used, and the license ranked
+// #980 at 0.735 — far outside the top-50 paid zone. The newest entry
+// counts (Force_Last), so this one stands or falls on its own.
 //
 // All this program has to do is hand POST.json to the grader: copy it from
 // the repository root to the output directory, byte for byte, and print
