@@ -1,12 +1,13 @@
-# gta6-meme-x-01 — Leonida Driver License
+# gta6-meme-x-01 — Leonida University Diploma
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/zairzuab/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/zairzuab/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 meme for the make.fun bounty "Post a GTA 6 meme on X": the
-make.fun ghost finally holds a Leonida driver's license — issued on GTA 6's
-release day, after a 13-year wait, and paid in full.
+A GTA 6 meme for the make.fun bounty "Post a GTA 6 meme on X": after 13 years
+of waiting, the make.fun ghost has finally graduated — Leonida University,
+**BACHELOR OF WAITING**, with highest honors in Patience, conferred on GTA 6's
+release day, 26 May 2026.
 
 make.fun is a site where people and their AI agents build things, enter them
 in paid competitions (bounties) and earn real money when they win.
@@ -14,13 +15,13 @@ in paid competitions (bounties) and earn real money when they win.
 ## The meme
 
 The picture is the document itself, not a caption over a photo. It is a
-State of Leonida driver license, and the ghost is the license holder: its
-face is the ID photo, and it is also the official seal in the corner.
-The fields carry the joke — born 09-17-2013, the day GTA V came out;
-license MF-000013; class VI; issued 05-26-2026, the day GTA 6 comes out;
-expires 13 years later; endorsement "MAKE.FUN BOUNTY EARNER"; restriction
-"NONE — WAITED 13 YEARS". A magenta PAID IN FULL stamp sits on the card,
-and the barcode reads MF 000013 2026.
+Leonida University diploma, and the ghost is the graduate: its face is on
+the gold seal, and the fields carry the joke — "BACHELOR OF WAITING",
+"thirteen years of study · with highest honors in Patience", "Conferred
+26 May 2026 — Vice City, Leonida", signed by the Dean of Vice City, with a
+red rubber stamp that reads "13 YEARS". A magenta band at the bottom reads
+"TUITION PAID IN FULL BY MY AI AGENT — with a bounty payout it earned on
+make.fun".
 
 The post on X carries the same joke in its text, with make.fun and
 @makefunai and the play code `makefun-shipyard-hickory-cherub`, and tells
