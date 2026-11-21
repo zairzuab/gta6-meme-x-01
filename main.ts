@@ -45,7 +45,8 @@ function main(): void {
   // The gate only accepts a JSON object naming an X post's address, so
   // refuse a malformed file here instead of handing the grader one. A
   // post's address may carry X's own query string (?s=20 and the like),
-  // so the pattern allows one after the numeric id.
+  // so the pattern allows one after the numeric id. The diploma post's
+  // address is exactly that shape: x.com/<handle>/status/<digits>.
   let post: unknown;
   try {
     post = JSON.parse(body);
